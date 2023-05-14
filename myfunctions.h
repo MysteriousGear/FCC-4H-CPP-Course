@@ -10,5 +10,12 @@ int stringFunc();
 int userInput();
 int calc();
 int betterCalc();
+int codeBro();
+int numberGuessingGame();
+void printGlobal();
+void rockPaperScissors();
+void printAndClear();
+int quiz();
+
 
 #endif

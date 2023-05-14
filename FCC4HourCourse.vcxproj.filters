@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Code Bro">
+      <UniqueIdentifier>{42fc6088-0eb1-4c86-bacc-f12e967ca5c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FCC4HourCourse.cpp">
@@ -32,6 +35,15 @@
     </ClCompile>
     <ClCompile Include="calculator.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeBro.cpp">
+      <Filter>Code Bro</Filter>
+    </ClCompile>
+    <ClCompile Include="dumbTests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz.cpp">
+      <Filter>Code Bro</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

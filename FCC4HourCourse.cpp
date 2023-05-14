@@ -14,7 +14,12 @@ int main()
 		"2 - variables\n"
 		"3 - stringFunctions\n"
 		"4 - gettingUserIput\n"
-		"5 - Calculator\n";
+		"5 - Calculator\n"
+		"6 - BroCode\n"
+		"7 - numberGuessingGame\n"
+		"8 - printGlobal\n"
+		"10 - printAndClear\n"
+		"11 - quiz\n";
 	int programToRun;
 
 	cout << welcomeText << endl;
@@ -36,6 +41,24 @@ int main()
 			break;
 		case 5:
 			betterCalc();
+			break;
+		case 6:
+			//codeBro();
+			break;
+		case 7:
+			//numberGuessingGame();
+			break;
+		case 8:
+			//printGlobal();
+			break;
+		case 9:
+			///void rockPaperScissors();
+			break;
+		case 10:
+			printAndClear();
+			break;
+		case 11:
+			quiz();
 			break;
 		default:
 			cout << "Sorry, invalid program number.";

@@ -128,9 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="calculator.cpp" />
+    <ClCompile Include="CodeBro.cpp" />
+    <ClCompile Include="dumbTests.cpp" />
     <ClCompile Include="FCC4HourCourse.cpp" />
     <ClCompile Include="gettingUserInput.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="quiz.cpp" />
     <ClCompile Include="stringFunctions.cpp" />
     <ClCompile Include="variables.cpp" />
   </ItemGroup>
